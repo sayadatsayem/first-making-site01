@@ -1,0 +1,42 @@
+.logo {
+    max-width: 130px;
+    height: auto;
+}
+.dark{
+   background-color: rgb(39, 180, 190);
+}
+.carousel-item{
+    padding: 20px 100px;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    box-shadow: 3px 5px 3px 5px rgb(249, 249, 249);
+    border: none;
+}
+
+.container h6{
+    color: rgb(238, 133, 14);
+}
+
+  
+.bagpack{
+    margin-top: 30px;
+    padding: 15px;
+    border-radius: 10px 3px 20px 3px;
+    box-shadow:10px 10px 10px 20px rgb(248, 248, 248) ;
+
+}
+.heading{
+    
+    text-align:center;
+    margin-top: 30px;
+
+}
+ .dor{
+     margin-left: 95px;
+     padding: 15px;
+     box-shadow: 10px 10px 10px 20px rgb(248, 248, 248);
+     border-radius: 3px 10px 3px 20px;
+ }
